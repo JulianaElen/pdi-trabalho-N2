@@ -1,0 +1,1 @@
+# Classe para normalizar a imagem

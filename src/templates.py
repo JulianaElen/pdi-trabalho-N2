@@ -1,0 +1,1 @@
+# Classe para carregar e gerenciar templates de silhuetas

@@ -1,0 +1,1 @@
+# Classe para encontrar o Elo Maluco
